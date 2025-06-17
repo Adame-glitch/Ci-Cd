@@ -1,1 +1,1 @@
-# ci-cd
+# Repo z labów Ci-Cd
